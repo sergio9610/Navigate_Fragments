@@ -23,6 +23,6 @@ private lateinit var binding: ActivityTabbedBinding
         val tabs: TabLayout = binding.tabs
         tabs.setupWithViewPager(viewPager)
 
-
+//
     }
 }
